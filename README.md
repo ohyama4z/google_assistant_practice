@@ -1,1 +1,1 @@
-"# google_assistant_practice" 
+# googleアシスタントと遊ぶ
